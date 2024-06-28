@@ -8,3 +8,5 @@ wordcloud
 pickle4==0.0.1
 joblib
 tensorflow
+protobuf==3.20.3
+typing-extensions==4.5.0
